@@ -1,0 +1,16 @@
+{
+    "auth":{
+        "login":{
+            "title": "Login",
+            "dont-have-account": "Nemate račun?",
+            "go-to-register": "Idi na registraciju"
+        },
+        "register":{
+            "title": "Registracija",
+            "submit": "Registriraj se"
+        }
+    },
+    "home":{
+        "title": "Početna"
+    }
+}
